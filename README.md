@@ -21,7 +21,7 @@
 - Interface Simples.
 - Armazenamento Localmente.
 
-## ☕ Usando BancoMr
+## ☕ Usando Bloco de Notas
 
 Para usar Bloco de Notas, siga estas etapas:
 
